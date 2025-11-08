@@ -1,7 +1,7 @@
 # Lijing-Cui--IWU
 
 ## 🔍 About Me
-- 🎓 Machine Learning Student at [Your University]
+- 🎓 Machine Learning Student at Indiana Wesleyan University
 - 🤖 Interested in AI, data visualization, and model optimization
 
 ## 🧠 Skills
