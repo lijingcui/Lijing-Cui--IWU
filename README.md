@@ -14,4 +14,5 @@ https://github.com/lijingcui/Lijing-Cui--IWU/blob/main/Adaptive%20Learning%20%26
 
 Artifact3 AI in Healthcare_ Medical Imaging, Diagnostics & Personalized Medicine 
 
-https://github.com/lijingcui/Lijing-Cui--IWU/blob/main/AI%20in%20Healthcare_%20Medical%20Imaging%2C%20Diagnostics%20%26%20Personalized%20Medicine%20(1).pptx
+
+https://github.com/lijingcui/Lijing-Cui--IWU/blob/e6debda9d0cc53aa25f2ceed200fb30149732f64/AI%20in%20Healthcare_%20Medical%20Imaging%2C%20Diagnostics%20%26%20Personalized%20Medicine%20(1).pptx
