@@ -9,8 +9,9 @@
 
 ## 📁 Featured Projects
 Artifact2  Adaptive learning change leadership 
+https://github.com/lijingcui/Lijing-Cui--IWU/blob/1e262e6ea60ed2d5fcc89996c2aeee29c2c3cd02/Adaptive%20Learning%20%26%20Change%20Leadership_%20Responding%20to%20What%20Works.pptx
 
-https://github.com/lijingcui/Lijing-Cui--IWU/blob/main/Adaptive%20Learning%20%26%20Change%20Leadership_%20Responding%20to%20What%20Works.pptx
+
 
 Artifact3 AI in Healthcare_ Medical Imaging, Diagnostics & Personalized Medicine 
 
