@@ -105,6 +105,49 @@ Topol, E. (2019). Deep medicine: How artificial intelligence can make healthcare
 
 
 ## Artifact4 
+Artifact Title
+
+Navigating Human Bias in Decision-Making and Technology
+
+Introduction
+
+This artifact examines how human bias influences judgment, behavior, and outcomes in organizational and technological settings. It introduces the importance of recognizing bias to ensure fair, accurate, and ethical decision-making.
+
+Description
+
+The artifact highlights common cognitive biases—such as confirmation bias, anchoring, and implicit bias—and explains how they appear in real-world contexts. It also discusses how bias can become embedded in systems, particularly in data-driven technologies and AI models.
+
+Objective
+
+The objective is to illustrate why leaders and designers must identify, measure, and mitigate bias to improve decision quality, promote fairness, and strengthen trust within organizations and digital systems.
+
+Process
+
+The process involves examining bias sources, reviewing cases where bias affected decisions, evaluating mitigation strategies, and applying structured reflection methods. It also considers the role of diverse teams and transparent design practices.
+
+Tools and Tech Used
+
+Tools may include bias-detection analytics, structured decision-making frameworks, data auditing instruments, and explainable AI methods that help uncover patterns influenced by bias.
+
+Value Proposition of the Artifact
+
+This artifact demonstrates how recognizing and correcting bias leads to more equitable decisions, higher-quality outcomes, and a more inclusive culture. It reinforces ethical responsibility in both human and technological decision-making.
+
+Unique Value
+
+Its unique value lies in combining psychological insights with practical strategies and technological tools, offering a holistic approach that addresses both human behavior and algorithmic systems.
+
+Relevance
+
+Navigating human bias is essential today as organizations rely increasingly on data, automation, and AI—areas where unchecked bias can amplify inequities and damage credibility.
+
+References (APA 7th Edition)
+
+Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.
+
+O’Neil, C. (2016). Weapons of math destruction: How big data increases inequality and threatens democracy. Crown.
+
+Suresh, H., & Guttag, J. (2021). A framework for understanding sources of harm throughout the machine learning life cycle. Proceedings of the ACM Conference on Fairness, Accountability, and Transparency, 113–124.
 
 <https://github.com/lijingcui/Lijing-Cui--IWU/blob/92a82c09fc739dd482ed9c509aa61f400564a1b8/Navigating%20Human%20Bias.pdf>
 
