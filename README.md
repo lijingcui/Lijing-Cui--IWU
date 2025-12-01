@@ -10,7 +10,7 @@
 - IWU students and teachers.
 
 ## 📁 Featured Projects
-Artifact2  Adaptive learning change leadership 
+## Artifact2  Adaptive learning change leadership 
 Artifact Title
 
 Adaptive Learning Change Leadership
@@ -58,7 +58,7 @@ Senge, P. (2006). The fifth discipline: The art and practice of the learning org
 <https://github.com/lijingcui/Lijing-Cui--IWU/blob/main/Adaptive%20Learning%20%26%20Change%20Leadership_%20Responding%20to%20What%20Works.pdf>
 
 
-Artifact3 AI in Healthcare_ Medical Imaging, Diagnostics & Personalized Medicine 
+## Artifact3 AI in Healthcare_ Medical Imaging, Diagnostics & Personalized Medicine 
 Artifact Title
 
 AI in Healthcare: Medical Imaging, Diagnostics & Personalized Medicine
@@ -97,16 +97,14 @@ AI in medical diagnostics is highly relevant today as healthcare systems face in
 
 References 
 
-Esteva, A., Robicquet, A., Ramsundar, B., Kuleshov, V., DePristo, M., Chou, K., … Dean, J. (2019). A guide to deep learning in healthcare. Nature Medicine, 25(1), 24–29. https://doi.org/10.1038/s41591-018-0316-z
-
-Jiang, F., Jiang, Y., Zhi, H., Dong, Y., Li, H., Ma, S., … Wang, Y. (2017). Artificial intelligence in healthcare: Past, present and future. Stroke and Vascular Neurology, 2(4), 230–243. https://doi.org/10.1136/svn-2017-000101
+Esteva, A., Robicquet, A., Ramsundar, B., Kuleshov, V., DePristo, M., Chou, K., … Dean, J. (2019). A guide to deep learning in healthcare. Nature Medicine, 25(1), 24–29. 
 
 Topol, E. (2019). Deep medicine: How artificial intelligence can make healthcare human again. Basic Books.
 
 <https://github.com/lijingcui/Lijing-Cui--IWU/blob/11d3cd65a4a22169b129352d475a2c1a93a78464/AI%20in%20Healthcare_%20Medical%20Imaging%2C%20Diagnostics%20%26%20Personalized%20Medicine%20(1).pdf>
 
 
-Artifact4 
+## Artifact4 
 
 <https://github.com/lijingcui/Lijing-Cui--IWU/blob/92a82c09fc739dd482ed9c509aa61f400564a1b8/Navigating%20Human%20Bias.pdf>
 
