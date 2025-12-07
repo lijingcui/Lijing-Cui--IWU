@@ -194,4 +194,7 @@ Suresh, H., & Guttag, J. (2021). A framework for understanding sources of harm t
 
 <https://github.com/lijingcui/Lijing-Cui--IWU/blob/92a82c09fc739dd482ed9c509aa61f400564a1b8/Navigating%20Human%20Bias.pdf>
 
+## Artifact5
+Front-End Futures: The AI-Powered Shift Every Developer Should Know
+
 
