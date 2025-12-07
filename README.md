@@ -184,7 +184,7 @@ Relevance
 
 Navigating human bias is essential today as organizations rely increasingly on data, automation, and AI—areas where unchecked bias can amplify inequities and damage credibility.
 
-References (APA 7th Edition)
+References 
 
 Kahneman, D. (2011). Thinking, fast and slow. Farrar, Straus and Giroux.
 
@@ -196,5 +196,36 @@ Suresh, H., & Guttag, J. (2021). A framework for understanding sources of harm t
 
 ## Artifact5
 Front-End Futures: The AI-Powered Shift Every Developer Should Know
+Introduction
 
+This newsletter introduces the emerging AI-driven transformations that are redefining front-end development in 2025.
+
+Description
+
+It provides concise, trend-focused insights on how AI tools, automation, and intelligent frameworks are reshaping front-end workflows and developer responsibilities.
+
+Objective
+
+The goal is to help developers stay ahead of industry shifts by understanding the technologies, skills, and practices driving the next era of front-end innovation.
+
+Process
+
+Each edition is curated through continuous industry research, expert analysis, and real-world case studies from leading technology companies.
+
+Tools and Tech Used
+
+The newsletter draws on AI-enhanced development tools such as GitHub Copilot, Vercel AI, code analyzers, and next-generation JavaScript frameworks.
+
+Value Proposition of the Artifact
+
+Readers gain actionable, future-ready insights that improve their productivity, strategic thinking, and ability to adapt to AI-powered front-end ecosystems.
+
+Unique Value
+
+Its uniqueness lies in combining technical depth with practical guidance, making complex AI trends easy to understand and immediately applicable.
+
+Relevance
+
+With AI rapidly transforming front-end roles and expectations, staying informed through this newsletter is essential for maintaining competitive skills in 2025 and beyond.
+<https://github.com/lijingcui/Lijing-Cui--IWU/blob/893118b3920ab443fd697e0b273517f5b3210e5f/week6.3.pdf>
 
